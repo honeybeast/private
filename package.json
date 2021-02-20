@@ -40,7 +40,7 @@
     "three": "^0.124.0"
   },
   "scripts": {
-    "start": "node index.js #Production only!",
+    "start": "node .",
     "postinstall": "npm run build",
     "dev": "react-scripts start",
     "build": "react-scripts build",
