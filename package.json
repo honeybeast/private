@@ -48,7 +48,7 @@
     "eject": "react-scripts eject",
     "build:storybook": "build-storybook -o build-storybook",
     "storybook": "start-storybook -p 9009 -s public",
-    "analyze": "source-map-explorer 'build/static/js/*.js'",
+    "analyze": "source-map-explorer 'build/static/js/*.js'"
   },
   "reactSnap": {
     "skipThirdPartyRequests": true,
