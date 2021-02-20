@@ -40,6 +40,13 @@
     "three": "^0.124.0"
   },
   "scripts": {
+    // "start": "react-scripts start",
+    // "build": "react-scripts build",
+    // "build:storybook": "build-storybook -o build-storybook",
+    // "test": "react-scripts test",
+    // "eject": "react-scripts eject",
+    // "storybook": "start-storybook -p 9009 -s public",
+    // "analyze": "source-map-explorer 'build/static/js/*.js'",
     "start": "node index.js #Production only!",
     "postinstall": "npm run build",
     "dev": "react-scripts start",
