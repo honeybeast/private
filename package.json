@@ -24,18 +24,17 @@
     "stylelint-config-recommended": "^3.0.0"
   },
   "dependencies": {
-    "@mdx-js/react": "^1.6.22",
-    "@babel/register": "^7.8.3",
-    "@babel/preset-env": "^7.8.4",
     "@babel/core": "^7.12.16",
-    "babel-jest": "^24.9.0",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/register": "^7.8.3",
+    "@mdx-js/react": "^1.6.22",
     "classnames": "^2.2.6",
     "popmotion": "^8.7.5",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
     "react-router-dom": "5.2.0",
-    "react-scripts": "^3.x",
+    "react-scripts": "^3.4.4",
     "react-transition-group": "^4.4.1",
     "three": "^0.124.0"
   },
@@ -69,7 +68,7 @@
       "last 1 safari version"
     ]
   },
-    "eslintConfig": {
+  "eslintConfig": {
     "settings": {
       "react": {
         "version": "999.999.999"
